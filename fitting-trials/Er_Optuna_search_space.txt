@@ -1,0 +1,27 @@
+Search Space: 
+Parameter: F2 	 Range: FloatDistribution(high=97500.0, log=False, low=97400.0, step=None) 
+Parameter: F4 	 Range: FloatDistribution(high=67950.0, log=False, low=67850.0, step=None) 
+Parameter: F6 	 Range: FloatDistribution(high=54050.0, log=False, low=53950.0, step=None) 
+Parameter: Zeta 	 Range: FloatDistribution(high=2380.0, log=False, low=2370.0, step=None) 
+Parameter: Alpha 	 Range: FloatDistribution(high=20.0, log=False, low=15.0, step=None) 
+Parameter: Beta 	 Range: FloatDistribution(high=-500.0, log=False, low=-600.0, step=None) 
+Parameter: T3 	 Range: FloatDistribution(high=50.0, log=False, low=40.0, step=None) 
+Parameter: T4 	 Range: FloatDistribution(high=80.0, log=False, low=70.0, step=None) 
+Parameter: T6 	 Range: FloatDistribution(high=-200.0, log=False, low=-300.0, step=None) 
+Parameter: T7 	 Range: FloatDistribution(high=350.0, log=False, low=250.0, step=None) 
+Parameter: T8 	 Range: FloatDistribution(high=350.0, log=False, low=250.0, step=None) 
+Parameter: M0 	 Range: FloatDistribution(high=4.0, log=False, low=3.0, step=None) 
+Parameter: P2 	 Range: FloatDistribution(high=650.0, log=False, low=550.0, step=None) 
+Parameter: B02 	 Range: FloatDistribution(high=-200.0, log=False, low=-300.0, step=None) 
+Parameter: B04 	 Range: FloatDistribution(high=500.0, log=False, low=400.0, step=None) 
+Parameter: B06 	 Range: FloatDistribution(high=400.0, log=False, low=300.0, step=None) 
+Parameter: B22 	 Range: FloatDistribution(high=-50.0, log=False, low=-100.0, step=None) 
+Parameter: B24 	 Range: FloatDistribution(high=350.0, log=False, low=250.0, step=None) 
+Parameter: B44 	 Range: FloatDistribution(high=500.0, log=False, low=400.0, step=None) 
+Parameter: B26 	 Range: FloatDistribution(high=-450.0, log=False, low=-550.0, step=None) 
+Parameter: B46 	 Range: FloatDistribution(high=-200.0, log=False, low=-300.0, step=None) 
+Parameter: B66 	 Range: FloatDistribution(high=-500.0, log=False, low=-600.0, step=None) 
+
+ Degrees of freedom: 
+             Number of experimental levels: 254 
+             Number of fitting parameters: 22 
