@@ -4,7 +4,7 @@ This repository contains Python code and scripts, designed to perform a paramete
 
 ## Repository Contents
 
-### Files
+### Main Files
 
 1. **`Optuna-lanthanide-fitting.ipynb`**
    - Utilizes [Optuna](https://optuna.org/), a hyperparameter optimization framework, to perform a broad search over parameter ranges.
