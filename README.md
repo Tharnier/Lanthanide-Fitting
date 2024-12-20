@@ -21,7 +21,7 @@ This repository contains Python code and scripts, designed to perform a paramete
 Ensure you have the following dependencies installed:
 
 - Python 3.8+
-- Jupyter Notebook
+- Python notebook editor
 - Required Python packages:
   - `torch`
   - `optuna`
