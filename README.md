@@ -59,4 +59,5 @@ Ensure you have the following dependencies installed:
 
 - [Optuna](https://optuna.org/): "An open source hyperparameter optimization framework to automate hyperparameter search."
 - [PyTorch](https://pytorch.org/): "A neutral home for the deep learning community to collaborate on the open source PyTorch framework and ecosystem."
+- [qLanth](https://github.com/zia-lab/qlanth): "Mathematica package for calculating the level structure of lanthanide ions in crystals using a single configuration effective Hamiltonian."
 
