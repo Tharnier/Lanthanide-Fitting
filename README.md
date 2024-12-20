@@ -1,6 +1,6 @@
 # Parameterized Hamiltonian Fitting for Trivalent Lanthanide Ions
 
-This repository contains Python code and scripts designed to perform a parameterized fitting of the Hamiltonian for the trivalent lanthanide ions. 
+This repository contains Python code and scripts designed to perform a parameterized fitting of the Hamiltonian for the trivalent lanthanide ions by utilizing advanced optimization techniques. 
 The project leverages two primary approaches: hyperparameter optimization using Optuna and PyTorch.
 
 ## Repository Contents
@@ -16,10 +16,6 @@ The project leverages two primary approaches: hyperparameter optimization using 
    - Utilizes [PyTorch](https://pytorch.org/), for gradient-based optimization, enabling fine-tuning of parameters with precision.
    - Matches the Hamiltonian's eigenvalues with a given set of energy levels using iterative refinement.
    - Best suited for detailed, localized parameter optimization after establishing a suitable range.
-
-### Purpose
-
-The main objective of this repository is to refine the parameterization of the Hamiltonian for trivalent lanthanide ions by utilizing advanced optimization techniques.
 
 ---
 
