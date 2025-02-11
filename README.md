@@ -48,7 +48,7 @@ Ensure you have the following dependencies installed:
    - Convert the symbolic Hamiltonian (exported from Mathematica code, see [qLanth](https://github.com/zia-lab/qlanth), into python language).
    - Define target eigenvalues for the Hamiltonian.
    - Specify the fitting parameters and their initial values.
-   - Perform hyperparameter optimization using the Python framework.
+   - Perform hyperparameter optimization using the PyTorch framework.
    - Compute the uncertainties of the optimized parameters.
    - Save detailed results from the optimization, including the best-fit parameters and the iteration process.
 
